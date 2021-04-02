@@ -1,0 +1,22 @@
+{
+  "name": "ReactNodeModules",
+  "version": "0.1.0",
+  "summary": "A short description of ReactNodeModules.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bidya.blooms/ReactNodeModules",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bidya.blooms": "bidyaranjan@bloomsmobility.com"
+  },
+  "source": {
+    "git": "https://github.com/Bidya.blooms/ReactNodeModules.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ReactNodeModules/Classes/**/*"
+}

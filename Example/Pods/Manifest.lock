@@ -1,0 +1,16 @@
+PODS:
+  - ReactNodeModules (0.1.0)
+
+DEPENDENCIES:
+  - ReactNodeModules (from `../`)
+
+EXTERNAL SOURCES:
+  ReactNodeModules:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactNodeModules: 671ece991cf49b132396d1bd09c06e285deabaeb
+
+PODFILE CHECKSUM: 97f2ded364960eb64d360a6b10bc311c984a57da
+
+COCOAPODS: 1.10.1

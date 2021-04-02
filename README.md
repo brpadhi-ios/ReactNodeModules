@@ -22,7 +22,7 @@ pod 'ReactNodeModules'
 
 ## Author
 
-Bidya.blooms, bidyaranjan@bloomsmobility.com
+Bidya, bidya@test.com
 
 ## License
 

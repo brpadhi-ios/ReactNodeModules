@@ -1,0 +1,6 @@
+framework module ReactNodeModules {
+  umbrella header "ReactNodeModules-umbrella.h"
+
+  export *
+  module * { export * }
+}
