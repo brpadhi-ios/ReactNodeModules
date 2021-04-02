@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ReactNodeModules_Tests' do
+  pod 'ReactNodeModules', :path => '../'
+  
+  
+end
